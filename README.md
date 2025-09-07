@@ -46,9 +46,6 @@ The Uber Trip Analysis dashboard provides a high-level overview of key metrics r
 - Most bookings are made for **1 passenger**  
 - Bookings decrease as passenger count increases
 
-  ![Uber Trip Analysis Dashboard](Uber_Trip_Analysis.png)
-
-
 ### 5. Daily Booking Trends
 - Displays booking trends across the month  
 - Helps identify peak booking days for better resource planning
@@ -67,5 +64,7 @@ The Uber Trip Analysis dashboard provides a high-level overview of key metrics r
 
 - **Power BI** – Data visualization  
 - **DAX** – Custom measures and calculated fields  
-- **Data Modeling** – To relate and filter trip and payment data  
+- **Data Modeling** – To relate and filter trip and payment data
+
+    ![Uber Trip Analysis Dashboard](Uber_Trip_Analysis.png)
 
